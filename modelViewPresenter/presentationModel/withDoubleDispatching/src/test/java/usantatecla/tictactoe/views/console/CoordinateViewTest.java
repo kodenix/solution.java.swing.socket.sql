@@ -1,5 +1,5 @@
 package usantatecla.tictactoe.views.console;
-
+/*
 import static org.junit.Assert.assertEquals;
 import static org.mockito.Mockito.verify;
 import static org.mockito.Mockito.when;
@@ -72,3 +72,4 @@ public class CoordinateViewTest {
         verify(this.console).readInt("Column: ");
     }
 }
+ */

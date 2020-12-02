@@ -2,7 +2,6 @@ package usantatecla.tictactoe.views.console;
 
 import usantatecla.tictactoe.types.Token;
 import usantatecla.tictactoe.views.MessageView;
-import usantatecla.utils.WithConsoleView;
 
 class ResultView extends WithConsoleView {
 

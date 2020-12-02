@@ -1,5 +1,5 @@
 package usantatecla.tictactoe.models;
-
+/*
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertTrue;
 
@@ -68,3 +68,4 @@ public class PlayerTest {
         assertTrue(this.player.getMoveTargetCoordinateError(this.coordinate00, this.coordinate01) == null);
     }
 }
+*/

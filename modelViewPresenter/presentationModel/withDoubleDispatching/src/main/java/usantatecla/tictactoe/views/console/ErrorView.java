@@ -1,6 +1,5 @@
 package usantatecla.tictactoe.views.console;
 
-import usantatecla.utils.Console;
 import usantatecla.tictactoe.types.Error;
 
 class ErrorView extends usantatecla.tictactoe.views.ErrorView {

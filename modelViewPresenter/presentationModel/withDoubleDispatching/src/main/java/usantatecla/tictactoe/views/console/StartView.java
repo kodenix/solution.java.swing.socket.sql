@@ -4,7 +4,6 @@ import usantatecla.tictactoe.controllers.StartController;
 import usantatecla.tictactoe.models.Turn;
 import usantatecla.tictactoe.views.MessageView;
 import usantatecla.utils.PlayersDialog;
-import usantatecla.utils.WithConsoleView;
 
 class StartView extends WithConsoleView {
 

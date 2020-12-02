@@ -1,5 +1,5 @@
 package usantatecla.tictactoe.models;
-
+/*
 import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
@@ -41,3 +41,4 @@ public class TurnTest {
         assertEquals(this.players[1].getToken(), this.turn.getOtherPlayer().getToken());
     }
 }
+*/

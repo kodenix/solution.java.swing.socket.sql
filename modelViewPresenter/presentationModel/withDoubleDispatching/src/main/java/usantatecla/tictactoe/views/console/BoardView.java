@@ -3,7 +3,6 @@ package usantatecla.tictactoe.views.console;
 import usantatecla.tictactoe.controllers.PlayController;
 import usantatecla.tictactoe.models.Coordinate;
 import usantatecla.tictactoe.views.MessageView;
-import usantatecla.utils.WithConsoleView;
 
 class BoardView extends WithConsoleView {
     
